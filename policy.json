@@ -3,14 +3,14 @@
   "kind": "policy",
   "key_id": "license-202611",
   "payload": {
-    "revision": 2,
+    "revision": 3,
     "min_version": "1.0.7.8",
     "latest_version": "1.0.7.8",
-    "update_url": "https://github.com/cvpia/115-muse/releases/latest",
+    "update_url": "https://hub.docker.com/r/cvpia/115-muse",
     "notice": "",
-    "issued_at": "2026-11-11T11:39:42Z",
+    "issued_at": "2026-11-11T12:09:04Z",
     "revoked_licenses": [],
     "revoked_cards": []
   },
-  "signature": "0ah2Dg6UUv_HsJtJY_MeB-ZbvadZBV4_uEp1SgGKWQd8sc4KBgRG3e_9ZbFKz9-S330wfMZLn0R-8-5AT8bBDg"
+  "signature": "5DKrtid9NotSMlFtYkzPtEb1v2svFYbUsCwTjsSijCU_26N-AxHK-GG90kLb46nPCsystRGhsRado4S7VLXcBg"
 }
